@@ -2,9 +2,9 @@
 - 👀 I’m interested in automation and AI
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me : ping me on slack @andre.culham!
+- 📫 How to reach me : ping me on slack @andre.culham
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Ex e-sports pro
+- ⚡ Fun fact: Ex e-sports pro ( League of legends)
 
 <!---
 andreculham-grabtaxi/andreculham-grabtaxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
